@@ -1,0 +1,5 @@
+
+
+For Google => 
+## First import this line in your plugin file:
+import { auth, signInWithPopup, GoogleAuthProvider } from '@firebase/auth'
